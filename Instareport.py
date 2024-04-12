@@ -31,9 +31,9 @@ Owner : Roshan Sharma|×_×|
 GitHub : Un-known001
 =============================
 
-
-█▀▄ █▀█  ▀█ ▄▀█ █░░ █▀█ █▀ ▀█▀
-█▄▀ █▀▄  █▄ █▀█ █▄▄ █▄█ ▄█ ░█░''')
+┳┳  ┓          
+┃┃┏┓┃┏┏┓┏┓┓┏┏┏┓
+┗┛┛┗┛┗┛┗┗┛┗┻┛┛┗
 
 user=input(f'{B}[+] Victim UserName : {G}')
 name=input(f'{B}[+] Victim Name : {G}')
